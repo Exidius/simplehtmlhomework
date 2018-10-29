@@ -1,4 +1,8 @@
-@media only screen and (min-width: 856px) and (max-width: 1024px) { 
+@media only screen and (min-width: 801px) { 
+	.banner-txt {margin-left:60px;}
+}
+
+@media only screen and (min-width: 801px) and (max-width: 1024px) { 
 
 	.top-bar-section ul li {padding: 0px 8px 5px !important;}
 	.banner-txt {position:absolute;top:auto;}
@@ -7,14 +11,15 @@
 	.newsletter form input[type="text"] { width:56%; }
 	
 }
-@media only screen and (max-width: 855px){
+
+@media only screen and (max-width: 800px){
 
 	.top-bar { position:absolute; right:0px; z-index:100; width:100%; }
 	.top-bar-section ul li { background:#fff; padding: 0px 6px 5px;}
 	.slider {display:none;}
 }
 
-@media only screen and (min-width: 641px) and (max-width: 855px) { 
+@media only screen and (min-width: 641px) and (max-width: 800px) { 
 
 	.banner-txt { position:relative; bottom:0px; left:0px; background:#333; text-align:center;}
 	.no-pad { padding:0px !important;}
