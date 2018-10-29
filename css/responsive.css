@@ -1,6 +1,6 @@
 @media only screen and (min-width: 856px) and (max-width: 1024px) { 
 
-	.top-bar-section ul li {padding: 0px 13px 5px !important;}
+	.top-bar-section ul li {padding: 0px 8px 5px !important;}
 	.banner-txt {position:absolute;top:auto;}
 	h1 {line-height: 40px; font-size: 38px;}
 	.banner-txt .button { font-size:20px;}
