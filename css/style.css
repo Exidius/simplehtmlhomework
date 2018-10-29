@@ -104,7 +104,7 @@ h3
 	z-index:1;
 	background:rgba(0, 0, 0, 0.6);
 }
-.banner-txt .button { font-family: 'ProximaNovaRegular'; font-size:28px; color:#fff; text-transform:uppercase; margin:15px 0px 0px 0px; padding:10px 40px;}
+.banner-txt .button { font-family: 'ProximaNovaRegular'; font-size:34px; color:#fff; text-transform:uppercase; margin:15px 0px 0px 0px; padding:10px 40px;}
 
 .content-sec { margin:0px; padding:45px 0px;}
 .grey { background:#454545;}
