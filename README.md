@@ -1,3 +1,1 @@
-# opre
-
-Simple responsive landing page.
+# Simple responsive landing page.
